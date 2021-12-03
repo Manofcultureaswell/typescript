@@ -1,26 +1,3 @@
-// const masiv = [1,2,3,4,5,6,7,8,9,10];
-// const filter = masiv.filter(filtrovka);
-// function filtrovka (element){
-//     return !(element%2);
-// }
-// console.log(filter);
-// function reducing (total,value) {
-//     return total+value;
-// }
-// const reduced = filter.reduce(reducing)
-// console.log(reduced);
-// kvadrat = (total,value) => total+Math.pow(value,2);
-// const sqr = filter.reduce(kvadrat,0);
-// console.log(sqr)
-
-// var pi = 42;
-
-// alerting =() => alert(pi);
-// const now = new Date();
-// const past = new Date(2001,6,5,0,0,0,0);
-// var nowyear = now.getFullYear();
-// var pastyear= past.getFullYear();
-// minutes = () => document.getElementById("demo").innerHTML = (nowyear-pastyear)*365*24*60;
 
     myData = document.getElementById("table").rows
     console.log(myData)
